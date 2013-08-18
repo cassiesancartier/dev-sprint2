@@ -1,8 +1,9 @@
 # Enter your answrs for chapter 7 here
-# Name:
+# Name: Cassie Sancartier
 
 
 # Ex. 7.5
+
 
 
 

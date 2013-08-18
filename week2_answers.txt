@@ -1,2 +1,8 @@
 # Please put answers for the week2 stand alone questions here
-# Name:
+# Name: Cassie Sancartier
+
+Ideas for a web app:
+
+1. A simple version of a weekly budget app (like mint, but way scaled down, and you input everything)
+2. a to-do list, than you can input different types of things to (links, pictures, text)
+3. A journal app
